@@ -1,1 +1,1 @@
-# git_test (fail)
+# git_test failed
